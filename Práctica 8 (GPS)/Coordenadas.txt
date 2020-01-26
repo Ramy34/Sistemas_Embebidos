@@ -1,0 +1,5 @@
+De aquí tenemos que:
+$GPGLL,1931.65440,N,09909.14116,W,024204.00,A,D*7D
+Las coordenadas son: 19.3165440, -99.0914116
+Y las obtenidas por google maps son: 19.527515, -99.152373
+Por lo que vemos que hay pequeñas variaciones.
